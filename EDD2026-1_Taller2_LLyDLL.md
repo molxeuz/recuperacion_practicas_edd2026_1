@@ -79,3 +79,5 @@ Restricciones:
 - No usar estructuras auxiliares.
 - No usar métodos de la clase base como:
   append, prepend, insert, delete, rotate, swap_nodes, etc.
+
+---
